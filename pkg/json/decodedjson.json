@@ -1,0 +1,146 @@
+{
+ "xml_name": {
+  "Space": "",
+  "Local": "ValCurs"
+ },
+ "date": "02.03.2002",
+ "name": "Foreign Currency Market",
+ "Valute": [
+  {
+   "ID": "R01010",
+   "numCode": "036",
+   "charCode": "AUD",
+   "nominal": "1",
+   "name": "Австралийский доллар",
+   "value": "16,0102"
+  },
+  {
+   "ID": "R01035",
+   "numCode": "826",
+   "charCode": "GBP",
+   "nominal": "1",
+   "name": "Фунт стерлингов Соединенного королевства",
+   "value": "43,8254"
+  },
+  {
+   "ID": "R01090",
+   "numCode": "974",
+   "charCode": "BYR",
+   "nominal": "1000",
+   "name": "Белорусских рублей",
+   "value": "18,4290"
+  },
+  {
+   "ID": "R01215",
+   "numCode": "208",
+   "charCode": "DKK",
+   "nominal": "10",
+   "name": "Датских крон",
+   "value": "36,1010"
+  },
+  {
+   "ID": "R01235",
+   "numCode": "840",
+   "charCode": "USD",
+   "nominal": "1",
+   "name": "Доллар США",
+   "value": "30,9436"
+  },
+  {
+   "ID": "R01239",
+   "numCode": "978",
+   "charCode": "EUR",
+   "nominal": "1",
+   "name": "Евро",
+   "value": "26,8343"
+  },
+  {
+   "ID": "R01310",
+   "numCode": "352",
+   "charCode": "ISK",
+   "nominal": "100",
+   "name": "Исландских крон",
+   "value": "30,7958"
+  },
+  {
+   "ID": "R01335",
+   "numCode": "398",
+   "charCode": "KZT",
+   "nominal": "100",
+   "name": "Казахстанских тенге",
+   "value": "20,3393"
+  },
+  {
+   "ID": "R01350",
+   "numCode": "124",
+   "charCode": "CAD",
+   "nominal": "1",
+   "name": "Канадский доллар",
+   "value": "19,3240"
+  },
+  {
+   "ID": "R01535",
+   "numCode": "578",
+   "charCode": "NOK",
+   "nominal": "10",
+   "name": "Норвежских крон",
+   "value": "34,7853"
+  },
+  {
+   "ID": "R01589",
+   "numCode": "960",
+   "charCode": "XDR",
+   "nominal": "1",
+   "name": "СДР (специальные права заимствования)",
+   "value": "38,4205"
+  },
+  {
+   "ID": "R01625",
+   "numCode": "702",
+   "charCode": "SGD",
+   "nominal": "1",
+   "name": "Сингапурский доллар",
+   "value": "16,8878"
+  },
+  {
+   "ID": "R01700",
+   "numCode": "792",
+   "charCode": "TRL",
+   "nominal": "1000000",
+   "name": "Турецких лир",
+   "value": "22,2616"
+  },
+  {
+   "ID": "R01720",
+   "numCode": "980",
+   "charCode": "UAH",
+   "nominal": "10",
+   "name": "Украинских гривен",
+   "value": "58,1090"
+  },
+  {
+   "ID": "R01770",
+   "numCode": "752",
+   "charCode": "SEK",
+   "nominal": "10",
+   "name": "Шведских крон",
+   "value": "29,5924"
+  },
+  {
+   "ID": "R01775",
+   "numCode": "756",
+   "charCode": "CHF",
+   "nominal": "1",
+   "name": "Швейцарский франк",
+   "value": "18,1861"
+  },
+  {
+   "ID": "R01820",
+   "numCode": "392",
+   "charCode": "JPY",
+   "nominal": "100",
+   "name": "Японских иен",
+   "value": "23,1527"
+  }
+ ]
+}
